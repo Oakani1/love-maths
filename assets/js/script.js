@@ -19,3 +19,14 @@ function incrementWrongAnswer() {
 
 }
 
+function displayAdditionQuestion() {
+
+}
+
+function displaySubstractQuestion() {
+
+}
+
+function displayMultiplyQuestion() {
+
+}
